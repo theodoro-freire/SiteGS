@@ -337,5 +337,36 @@ button:hover {
     .img_resultado img{
         max-width: 20%;
     }
+
+    .bloco_sobre_direita{
+        flex-direction: column;
+    }
+
+    .bloco_sobre_direita div{
+        flex-direction: column;
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .bloco_sobre_direita img{
+        max-width: 100%;
+        border-radius: 40px;
+    }
+
+
+    .bloco_sobre_esquerda{
+        flex-direction: column;
+    }
+
+    .bloco_sobre_esquerda div{
+        flex-direction: column;
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .bloco_sobre_esquerda img{
+        max-width: 100%;
+        border-radius: 40px;
+    }
 }
 
